@@ -1,4 +1,4 @@
-FROM phi3:mini
+FROM llama3.1:latest
 
 SYSTEM """
 You are a linguistic specialist in personal name variation generation.
